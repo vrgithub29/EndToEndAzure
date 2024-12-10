@@ -1,0 +1,9 @@
+{
+	"name": "End-To-End-ETL",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c13f55c4-d56f-47dc-b4a5-456c3eeae00e",
+		"tenantId": "99b27c4c-69fe-467e-886e-e2014e05d147"
+	}
+}
